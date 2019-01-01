@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">kotlin-coroutines-example</string>
+    <string name="repos">Repository</string>
+    <string name="followers">Followes</string>
+    <string name="following">Following</string>
+</resources>
